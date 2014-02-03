@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="196.051px" height="54px" viewBox="0 0 196.051 54" enable-background="new 0 0 196.051 54" xml:space="preserve">
+<g>
+	<polygon fill="#FFFFFF" points="81.346,24.239 69.38,24.239 69.38,13.532 63.412,13.532 63.412,40.3 69.38,40.3 69.38,29.705 
+		81.346,29.705 81.346,40.3 87.235,40.3 87.235,13.532 81.346,13.532 	"/>
+	<polygon fill="#FFFFFF" points="106.94,29.361 120.137,29.361 120.137,24.125 106.94,24.125 106.94,18.96 120.938,18.96 
+		120.938,13.489 101.09,13.489 101.09,40.262 121.478,40.262 121.478,34.754 106.94,34.754 	"/>
+	<path fill="#FFFFFF" d="M143.953,13.49l-12.004,26.772h6.418l1.951-4.59h13.73l1.951,4.59h6.461L150.454,13.49H143.953z
+		 M142.578,30.396l4.626-10.861l4.587,10.861H142.578z"/>
+	<path fill="#FFFFFF" d="M185.8,13.489h-12.617v26.772h5.963v-7.572h6.654c6.811-0.078,10.25-4.244,10.25-9.599
+		C196.05,17.927,192.646,13.489,185.8,13.489 M185.8,27.221h-6.654v-8.069h6.654c2.832,0,4.287,1.912,4.287,4.054
+		C190.087,25.348,188.669,27.221,185.8,27.221"/>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M4.533,37.877V16.116L23.38,5.233v21.762l18.848-10.879v21.761L23.38,48.76L4.533,37.877z M21.114,1.305
+			L2.267,12.187L0,13.498v2.619v21.761v2.621l2.267,1.309l18.848,10.883L23.38,54l2.268-1.311l18.847-10.883l2.266-1.309v-2.621
+			V16.116v-2.619l-2.266-1.311L25.648,1.305L23.38,0L21.114,1.305z"/>
+	</defs>
+	<use xlink:href="#SVGID_1_"  overflow="visible" fill="#FFFFFF"/>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<rect clip-path="url(#SVGID_2_)" fill="#FFFFFF" width="46.762" height="54"/>
+</g>
+</svg>

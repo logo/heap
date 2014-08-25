@@ -1,0 +1,22 @@
+
+/**
+ * Heap
+ */
+
+.logo[data-logo="Heap"] {
+  width: 3.630555556em;
+  /* (196.05/54) * (1) - 0 */
+}
+
+.logo[data-logo="Heap"] > * {
+  background-image: url(images/logo.svg);
+  margin: 0;
+}
+
+.logo[data-logo="Heap"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="Heap"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}
